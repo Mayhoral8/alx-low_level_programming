@@ -12,16 +12,16 @@ int main(void)
 
 	char c;
 	int i;
-	long int i2;
-	long long int i3;
+	long int li;
+	long long int lli;
 	float f;
 
-	printf("size of a char: %d byte(s)\n", (int) sizeof(char));
-	printf("size of an int: %dbyte(s)\n", (int) sizeof(int));
-	printf("size of a long int: %d byte(s)\n", (int) sizeof(long int));
+	printf("size of a char: %d byte(s)\n", (int) sizeof(c));
+	printf("size of an int: %dbyte(s)\n", (int) sizeof(i));
+	printf("size of a long int: %d byte(s)\n", (int) sizeof(li));
 	printf("size of a long long int: %d byte(s)\n", (int) sizeof(long lo
-				ng int));
-	printf("size of a float: %d byte(s)\n", (int) sizeof(float));
+				ng lli));
+	printf("size of a float: %d byte(s)\n", (int) sizeof(f));
 
 	return (0);
 }

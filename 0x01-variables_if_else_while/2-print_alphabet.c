@@ -12,10 +12,10 @@ int main(void)
 {
 	int i = 97;
 
-	while (i< 127)
+	while (i < 123)
 	{
 		putchar(i);
-			i++;
+		i++;
 	}
 	putchar(10);
 

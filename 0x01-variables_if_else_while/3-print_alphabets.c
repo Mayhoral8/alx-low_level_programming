@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * main - Entry point
  *
  * Description - let's get running
@@ -10,6 +10,7 @@ int main(void)
 {
 	int i = 97;
 	int j = 65;
+
 	while (i < 123)
 	{
 		putchar(i);

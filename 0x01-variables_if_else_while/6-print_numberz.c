@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Description - Program that prints first binary
+ * Description: Program that prints first binary
  *
  * Result: Always (0)
  */

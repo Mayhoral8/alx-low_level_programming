@@ -4,7 +4,7 @@
  *
  * Description: Program that prints first binary
  *
- * Result: Always (0)
+ * Result: Always 0 (Success)
  */
 int main(void)
 {

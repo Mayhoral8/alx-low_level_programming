@@ -14,12 +14,13 @@ int main(void)
 		putchar(i);
 		i++;
 	}
-	while (i < 91 )
+	while (j < 91)
 	{
-		putchar(i);
+		putchar(j);
 		i++;
-	{
+	}
 	putchar(10);
+
 	return (0);
 
 }

@@ -21,7 +21,7 @@ int main(void)
 	while (j < 103)
 	{
 		putchar(j);
-		i++;
+		j++;
 	}
 	putchar(10);
 	return (0);

@@ -14,7 +14,7 @@ int main(void)
 	while (i < 58)
 	{
 	putchar(i);
-		if (i != j and j <= 57 )
+		if (i != j && j <= 57 )
 		{
 			putchar(j);
 			putchar(44);

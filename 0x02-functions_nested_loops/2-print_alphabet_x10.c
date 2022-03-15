@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Body
+ * print_alphabet_x10 - Body
  *
  * Description: 10x alphabet
  *

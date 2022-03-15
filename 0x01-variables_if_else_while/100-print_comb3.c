@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Description: combination of two 
+ * Description: combination of two
  *
  * Return: Always 0 (Success)
  */
@@ -17,8 +17,8 @@ int main(void)
 		{
 			putchar(i);
 			putchar(j);
-		
-			if (i < 56 || j > 57 )
+
+			if (i < 56 || j > 57)
 			{
 			putchar(44);
 			putchar(32);
@@ -27,7 +27,7 @@ int main(void)
 		}
 
 		i++;
-	}	
+	}
 	putchar(10);
 	return (0);
 }

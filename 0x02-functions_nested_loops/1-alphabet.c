@@ -4,9 +4,9 @@
  *
  * Description: Alphabet again
  *
- * Return: Always 0 (Success)
+ * Return: void
  */
-int main(void)
+void print_alphabet(void);
 {
 	char letter = 'a';
 

@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_sign — Entry point
+ * print_sign - Entry point
  *
  *
  * @n: n is an integer

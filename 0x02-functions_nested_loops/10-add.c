@@ -9,9 +9,9 @@
 int add(int x, int y)
 {
 	
-	add;
+	sum;
 	add = x + y;
 	result;
-	result = add(x, y);
+	result = sum(x, y);
 	return (result);
 }

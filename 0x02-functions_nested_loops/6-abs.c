@@ -1,9 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * int _abs(int) - Function that computes the absolute value of an integer
+ * _abs - Function that computes the absolute value of an integer
  *
- * Description: blah
+ * @n: n is an integer
  *
  * Return: Always 0
  */
@@ -19,7 +19,7 @@ int _abs(int n)
 		return (-n);
 
 	}
-	else 
+	else
 	{
 		return (n);
 	}

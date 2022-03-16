@@ -12,18 +12,18 @@ int print_last_digit(int n)
 
 	if (n < 0)
 	{
-		int lastDigit1 = n % 10;
-		return (lastDigit1);
+		 n % 10;
+		return (n);
 	}
 	else if (n < 0)
 	{
-		int lastDigit2 = n % 10;
-		return (lastDigit2);
+		n % 10;
+		return (n);
 	}
 	else  
 	{
-		int lastDigit3 = n % 10;
-		return (lastDigit3);
+		 n % 10;
+		return (n);
 	}
 	
 }

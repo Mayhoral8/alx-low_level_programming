@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * print_sign — Entrt point
+ * print_sign — Entry point
  *
  * Description: program that prints sign
  *
- * @c: an ascii character
+ * @n: an ascii character
  *
  * Return: 1 if +, 0 if 0 -1, if -
  */

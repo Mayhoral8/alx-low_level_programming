@@ -25,7 +25,7 @@ for (column = 0; column <= 9; column++)
 				_putchar('0');
 			}
 			else if (product < 10)
-			{
+		i	{
 				_putchar(',');
 				_putchar(' ');
 				_putchar(' ');
@@ -40,4 +40,4 @@ for (column = 0; column <= 9; column++)
 			}
 		}
 		_putchar('\n');
-	}
+}	}

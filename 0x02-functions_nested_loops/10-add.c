@@ -9,8 +9,8 @@
 int add(int x, int y)
 {
 	
-	sum;
-	add = x + y;
+	int sum;
+	sum = x + y;
 	result;
 	result = sum(x, y);
 	return (result);

@@ -12,20 +12,17 @@ int print_last_digit(int n)
 
 	if (n < 0)
 	{
-		lastDigit1; 
-		lastDigit1 = n % 10;
+		int lastDigit1 = n % 10;
 		return (lastDigit1);
 	}
 	else if (n < 0)
 	{
-		lastDigit2;
-		lastDigit2 = n % 10;
+		int lastDigit2 = n % 10;
 		return (lastDigit2);
 	}
 	else  
 	{
-		lastDigit3;
-		lastDigit3 = n % 10;
+		int lastDigit3 = n % 10;
 		return (lastDigit3);
 	}
 	

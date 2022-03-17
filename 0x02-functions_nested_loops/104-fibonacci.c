@@ -12,19 +12,21 @@ int main(void)
 	sum = 0;
 	first = 0;
 	second = 1;
+	count = 0;
 
 	while (sum < 98)
 	{
 		sum = first + second;
-		
+		printf("%d, ", sum);
 		first = second;
 
 		second = sum;
 
-	
+		count ++;
 	
 	}
-	printf("%d, %s, %s\n", sum, ",", " ");
+	sum = first + second;
+	printf("%d\n", sum);
 
 	return (0);
 

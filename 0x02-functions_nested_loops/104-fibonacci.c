@@ -14,10 +14,10 @@ int main(void)
 	second = 1;
 	count = 0;
 
-	while (sum < 98)
+	while (sum < 135301852344706746049)
 	{
 		sum = first + second;
-		printf("%d, ", sum);
+		printf("%li, ", sum);
 		first = second;
 
 		second = sum;
@@ -26,7 +26,7 @@ int main(void)
 	
 	}
 	sum = first + second;
-	printf("%d\n", sum);
+	printf("li\n", sum);
 
 	return (0);
 

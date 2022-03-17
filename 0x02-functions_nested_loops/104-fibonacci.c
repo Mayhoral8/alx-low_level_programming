@@ -24,7 +24,7 @@ int main(void)
 	
 	
 	}
-	printf("%d, %c, %c\n", sum, ",", " ");
+	printf("%d, %s, %s\n", sum, ",", " ");
 
 	return (0);
 

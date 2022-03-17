@@ -8,7 +8,10 @@
  */
 int main(void)
 {
-	long int sum, first, second, count;
+	long int sum;
+       	long int first, second;
+       	count;
+
 	sum = 0;
 	first = 0;
 	second = 1;

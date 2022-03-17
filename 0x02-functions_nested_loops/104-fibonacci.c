@@ -24,7 +24,7 @@ int main(void)
 	
 	
 	}
-	printf("%i, %d, %d\n", sum, ",", " ");
+	printf("%d, %d, %d\n", sum, ",", " ");
 
 	return (0);
 

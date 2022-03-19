@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * print_line - program that prints a straight line
  * @n: integer

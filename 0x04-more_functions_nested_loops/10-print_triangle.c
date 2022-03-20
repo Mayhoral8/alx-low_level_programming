@@ -7,7 +7,7 @@
  * Return: void
  */
 
-vioid print_triangle(int size)
+void print_triangle(int size)
 {
 	int line = 0;
 	int spaces;

@@ -8,6 +8,6 @@ void _puts(char *str)
 	char *str;
 	char a;
 	char string[] = "";
-	a = string
+	a = string;
 	str = &a;
 }
